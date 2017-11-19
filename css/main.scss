@@ -51,6 +51,15 @@ $theme-dark: #222;
 	min-height: 190px ;
 	background: #F5F1E9 ;	/* 背景色 */
 	padding: 1.5em 0 ;
+        margin: 1.5em auto;
+
+        #boxArea {
+            margin: auto;
+            div {
+                margin-right: 1em;
+                margin-bottom: 1em;
+            }
+        }
 }
 
 /* デスクトップPCでは高さを拡張する */

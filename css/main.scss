@@ -146,3 +146,15 @@ ul.social-button-syncer li {
 .campaign {
     text-align: center;
 }
+
+/* backers */
+.backers {
+    .books-donators {
+        li {
+            display: inline-block;
+            margin-right: 1em;
+        }
+    }
+    .donators {
+    }
+}
